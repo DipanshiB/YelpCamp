@@ -1,0 +1,38 @@
+.card img {
+  width: 100%;
+}
+.figure{
+  border: 0.5px solid lightgray;
+  border-radius: 3px;
+  width : 100%;
+}
+.figure img {
+  width: 100%;
+}
+.figure-caption{
+  padding : 9px;
+}
+.figure p {
+  padding : 9px;
+}
+#campground_name{
+  font-size: 2.00em;
+}
+.delete-form{
+  display: inline;
+  margin-top: 0;
+}
+#edit_btn{
+  margin-left: 9px;
+  margin-top: 0;
+}
+#btns{
+  margin-bottom: 9px;
+}
+#desc{
+  margin-bottom: 0;
+}
+#sub_by{
+  margin-top: 0;
+  margin-bottom: 5px;
+}
